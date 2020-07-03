@@ -1,0 +1,11 @@
+frappe
+erpnext
+bench_manager
+paystack
+xcount
+quality_management
+dcl
+fullsize
+void
+biometric_hr
+mypro
